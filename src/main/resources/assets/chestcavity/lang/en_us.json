@@ -291,6 +291,8 @@
     "quality.chestcavity.exceptional": "Exceptional ",
     "quality.chestcavity.supernatural": "Supernatural ",
     "quality.chestcavity.severely": "Severely ",
+    "message.chestcavity.obstructed": "Target's chest is obstructed",
+    "message.chestcavity.too_healthy": "Target is too healthy to open",
     "rei.chestcavity.salvage_recipe": "Salvaging",
     "text.autoconfig.chestcavity.title": "Chest Cavity",
     "text.autoconfig.chestcavity.category.core": "Core",
