@@ -294,6 +294,8 @@
     "message.chestcavity.obstructed": "Target's chest is obstructed",
     "message.chestcavity.too_healthy": "Target is too healthy to open",
     "container.chestcavity.chest_cavity": "%s's Chest Cavity",
+    "lore.chestcavity.creeper_appendix.line_1": "This appears to be a fuse.",
+    "lore.chestcavity.creeper_appendix.line_2": "It won't do much by itself.",
     "rei.chestcavity.salvage_recipe": "Salvaging",
     "text.autoconfig.chestcavity.title": "Chest Cavity",
     "text.autoconfig.chestcavity.category.core": "Core",
