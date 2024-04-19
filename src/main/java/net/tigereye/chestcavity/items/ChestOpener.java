@@ -73,7 +73,6 @@ public class ChestOpener extends Item {
 					String name;
 					try {
 						name = target.getDisplayName().getString();
-						name = name.concat("'s ");
 					} catch (Exception e) {
 						name = "";
 					}
@@ -81,7 +80,7 @@ public class ChestOpener extends Item {
 					((ChestCavityEntity)player).getChestCavityInstance().ccBeingOpened = cc;
 					player.openHandledScreen(new SimpleNamedScreenHandlerFactory((i, playerInventory, playerEntity) -> {
 						return new ChestCavityScreenHandler(i, playerInventory, inv);
-					}, Text.translatable(name + "Chest Cavity")));
+					}, Text.translatable("container.chestcavity.chest_cavity", name)));
 				}
 				return true;
 			}

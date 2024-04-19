@@ -293,6 +293,7 @@
     "quality.chestcavity.severely": "Severely ",
     "message.chestcavity.obstructed": "Target's chest is obstructed",
     "message.chestcavity.too_healthy": "Target is too healthy to open",
+    "container.chestcavity.chest_cavity": "%s's Chest Cavity",
     "rei.chestcavity.salvage_recipe": "Salvaging",
     "text.autoconfig.chestcavity.title": "Chest Cavity",
     "text.autoconfig.chestcavity.category.core": "Core",
